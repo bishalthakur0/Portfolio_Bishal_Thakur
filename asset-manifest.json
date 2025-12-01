@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Bishal_Thakur/static/css/main.52c82ba0.css",
-    "main.js": "/Portfolio_Bishal_Thakur/static/js/main.904cab3e.js",
+    "main.js": "/Portfolio_Bishal_Thakur/static/js/main.a5cc2721.js",
     "static/js/453.b0cd7502.chunk.js": "/Portfolio_Bishal_Thakur/static/js/453.b0cd7502.chunk.js",
     "static/media/bishal.jpg": "/Portfolio_Bishal_Thakur/static/media/bishal.923a4a9a6fc72bfd661d.jpg",
     "static/media/Hotelcalifornia.jpg": "/Portfolio_Bishal_Thakur/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
@@ -13,11 +13,11 @@
     "static/media/atomic_habits.jpg": "/Portfolio_Bishal_Thakur/static/media/atomic_habits.1e9739efe6a8eca8240a.jpg",
     "index.html": "/Portfolio_Bishal_Thakur/index.html",
     "main.52c82ba0.css.map": "/Portfolio_Bishal_Thakur/static/css/main.52c82ba0.css.map",
-    "main.904cab3e.js.map": "/Portfolio_Bishal_Thakur/static/js/main.904cab3e.js.map",
+    "main.a5cc2721.js.map": "/Portfolio_Bishal_Thakur/static/js/main.a5cc2721.js.map",
     "453.b0cd7502.chunk.js.map": "/Portfolio_Bishal_Thakur/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52c82ba0.css",
-    "static/js/main.904cab3e.js"
+    "static/js/main.a5cc2721.js"
   ]
 }
